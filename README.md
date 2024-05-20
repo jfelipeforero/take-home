@@ -7,7 +7,7 @@ Demo:
 
 [![take-home demo](https://img.youtube.com/vi/jmWRsxxGYm4/hqdefault.jpg)](https://www.youtube.com/watch?v=jmWRsxxGYm4)
 
- Clear Advantages## :package: Run the application locally
+## :package: Run the application locally
 
 ### Setup
 First check if you have NPM installed 
