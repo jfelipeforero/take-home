@@ -1,4 +1,4 @@
-# Snappr home-take ![language](https://img.shields.io/badge/language-typescript-blue.svg)
+# Snappr take-home ![language](https://img.shields.io/badge/language-typescript-blue.svg)
 
 A fullstack application to use different functionalities of the OpenAI API.
 http://ec2-54-157-185-99.compute-1.amazonaws.com:3000/
