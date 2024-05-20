@@ -1,6 +1,6 @@
 # Snappr take-home ![language](https://img.shields.io/badge/language-typescript-blue.svg)
 
-A fullstack application to use different functionalities of the OpenAI API.\
+A full-stack application that provides different functionalities consuming several endpoints from the OpenAI API.\
 http://ec2-54-157-185-99.compute-1.amazonaws.com:3000/
 
 Demo:
@@ -8,9 +8,6 @@ Demo:
 [![take-home demo](https://www.androidauthority.com/wp-content/uploads/2022/11/twitter-1-scaled-840w-472h.jpg.webp)](https://www.youtube.com/watch?v=jmWRsxxGYm4)
 
 ## :package: Run the application locally
-
-### Setup
-First check if you have NPM installed 
 
 ### In /server
 Create an .env file and define the following variables: 
