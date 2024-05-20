@@ -8,7 +8,7 @@ http://ec2-54-157-185-99.compute-1.amazonaws.com:3000/
 ### Setup
 First check if you have NPM installed 
 
-## On /server
+### On /server
 Create an .env file and create the following variables 
 
 OPENAI_API_KEY={the key that you provided us} 
@@ -29,7 +29,7 @@ npm run build
 npm run start
 ```
 
-## On /client
+### On /client
 Create an .env file and create the following variables 
 
 REACT_APP_API_URL=http://localhost:1337/trpc
@@ -50,7 +50,7 @@ npm install -g serve
 
 Go to http://localhost:3000 and start testing the different features!
 
-## :package: Some of the technologies used
+## :package: Some of the technologies used for this project
 
 <code><a href="https://www.typescriptlang.org/"><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="ts logo" /></a></code>
 <code><a href="https://react.dev/"><img height="40" src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*MF5V_dkybUTcfzwHFh0VSw.jpeg" alt="ts logo" /></a></code>
