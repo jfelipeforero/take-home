@@ -5,7 +5,7 @@ http://ec2-54-157-185-99.compute-1.amazonaws.com:3000/
 
 Demo:
 
-[![take-home demo](https://img.youtube.com/vi/jmWRsxxGYm4/hqdefault.jpg)](https://youtu.be/jmWRsxxGYm4)
+[![take-home demo](https://img.youtube.com/vi/jmWRsxxGYm4/hqdefault.jpg)](https://www.youtube.com/watch?v=jmWRsxxGYm4)
 
  Clear Advantages## :package: Run the application locally
 
