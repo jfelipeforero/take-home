@@ -10,7 +10,7 @@ export default function App() {
     trpc.createClient({
       links: [
         httpBatchLink({
-          url: 'http://localhost:1337/trpc',
+          url: process.env.REACT_APP_API_URL!,
         }),
       ],
     }),
