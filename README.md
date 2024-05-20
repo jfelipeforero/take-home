@@ -3,6 +3,8 @@
 A fullstack application to use different functionalities of the OpenAI API.\
 http://ec2-54-157-185-99.compute-1.amazonaws.com:3000/
 
+Demo:
+
 [![take-home demo](https://img.youtube.com/vi/jmWRsxxGYm4/hqdefault.jpg)](https://youtu.be/jmWRsxxGYm4)
 
  Clear Advantages## :package: Run the application locally
