@@ -48,6 +48,10 @@ npm run build
 npm install -g serve
 ```
 
+```sh
+serve -s build -l 3000
+```
+
 Go to http://localhost:3000 and start testing the different features!
 
 ## :package: Some of the technologies used for this project
