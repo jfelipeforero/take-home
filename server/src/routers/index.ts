@@ -1,5 +1,5 @@
 import { t } from "../trpc";
-import { openaiRouter } from "./chatgpt.router";
+import { openaiRouter } from "./openai.router";
 
 const router = t.router;
 

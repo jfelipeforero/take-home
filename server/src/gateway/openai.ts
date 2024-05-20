@@ -123,4 +123,3 @@ export async function createAudioFromText(text: string): Promise<Buffer> {
   const buffer = Buffer.from(await mp3.arrayBuffer());
   return buffer;
 }
-
