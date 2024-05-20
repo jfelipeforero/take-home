@@ -8,7 +8,7 @@ http://ec2-54-157-185-99.compute-1.amazonaws.com:3000/
 ### Setup
 First check if you have NPM installed 
 
-### On /server
+### In /server
 Create an .env file and define the following variables: 
 
 OPENAI_API_KEY={the key that you provided us} 
@@ -29,7 +29,7 @@ npm run build
 npm run start
 ```
 
-### On /client
+### In /client
 Create an .env file and define the following variables:
 
 REACT_APP_API_URL=http://localhost:1337/trpc
