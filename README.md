@@ -5,7 +5,7 @@ http://ec2-54-157-185-99.compute-1.amazonaws.com:3000/
 
 Demo:
 
-[![take-home demo](https://img.youtube.com/vi/jmWRsxxGYm4/hqdefault.jpg)](https://www.youtube.com/watch?v=jmWRsxxGYm4)
+[![take-home demo](https://www.androidauthority.com/wp-content/uploads/2022/11/twitter-1-scaled-840w-472h.jpg.webp)](https://www.youtube.com/watch?v=jmWRsxxGYm4)
 
 ## :package: Run the application locally
 
