@@ -9,13 +9,13 @@ http://ec2-54-157-185-99.compute-1.amazonaws.com:3000/
 First check if you have NPM installed 
 
 ### On /server
-Create an .env file and create the following variables 
+Create an .env file and define the following variables: 
 
 OPENAI_API_KEY={the key that you provided us} 
 
 PORT=1337
 
-### Run the following scripts on the server/src folder
+### Navigate to the /server/src folder and execute the following commands:
 
 ```sh
 npm install
@@ -30,11 +30,11 @@ npm run start
 ```
 
 ### On /client
-Create an .env file and create the following variables 
+Create an .env file and define the following variables:
 
 REACT_APP_API_URL=http://localhost:1337/trpc
 
-### Then run the following scripts on the client/src folder
+### Finally, navigate to the /client/src folder and execute the following commands:
 
 ```sh
 npm install
