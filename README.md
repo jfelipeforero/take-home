@@ -1,7 +1,7 @@
 # Snappr take-home ![language](https://img.shields.io/badge/language-typescript-blue.svg)
 
 A full-stack application that provides different functionalities consuming several endpoints from the OpenAI API.\
-http://ec2-54-157-185-99.compute-1.amazonaws.com:3000/
+http://ec2-35-153-192-114.compute-1.amazonaws.com:3000
 
 Demo:
 
